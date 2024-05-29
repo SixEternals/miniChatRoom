@@ -1,0 +1,15 @@
+
+d
+java:S20950"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìƒ®Ÿ8˜³İïû1
+L	java:S106"+Replace this use of System.out by a logger.(¢ï Öÿÿÿÿÿ8íÀÜïû1
+„
+java:S4087"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(€¶º‡ıÿÿÿÿ8ğÀÜïû1
+E
+java:S1481"(Remove this unused "url" local variable.( ğõ¹8òÀÜïû1
+S
+java:S2696%"6Make the enclosing method "static" or remove this set.(‰ëÂ8Ÿ³İïû1
+L	java:S106'"+Replace this use of System.out by a logger.(ì¨şÿÿÿÿ8óÀÜïû1
+]	java:S125&"<This block of commented-out lines of code should be removed.(Âù´±üÿÿÿÿ8ôÀÜïû1
+G	java:S1066"+Replace this use of System.out by a logger.(²€¶„8öÀÜïû1
+S
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8¥³İïû1

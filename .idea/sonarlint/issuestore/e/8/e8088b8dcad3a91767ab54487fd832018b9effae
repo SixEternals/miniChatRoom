@@ -1,0 +1,25 @@
+
+\
+java:S1118	":Add a private constructor to hide the implicit public one.(Ìâ°ßúÿÿÿÿ8úÊ£ÿû1
+£
+java:S1186)"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Â—Ô”ÿÿÿÿÿ8şÊ£ÿû1
+
+java:S1186-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(øÃÁ¬8ÿÊ£ÿû1
+£
+java:S11861"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ó‹œşÿÿÿÿ8€Ë£ÿû1
+
+java:S11866"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“–ış8‚Ë£ÿû1
+E	java:S108")Either remove or fill this block of code.(ï­£Ä8„Ë£ÿû1
+D
+java:S1068
+"'Remove this unused "all" private field.(¦Ãºî8†Ë£ÿû1
+D
+java:S1068"'Remove this unused "dos" private field.(“«Ëÿ8ˆË£ÿû1
+I
+java:S1068"'Remove this unused "dis" private field.(ÌİÎßüÿÿÿÿ8ŠË£ÿû1
+I
+java:S1068"-Remove this unused "isRunning" private field.(‡Õ°U8ŒË£ÿû1
+E
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8Ë£ÿû1
+L
+java:S1068"*Remove this unused "socket" private field.(µçŠäøÿÿÿÿ8Ë£ÿû1

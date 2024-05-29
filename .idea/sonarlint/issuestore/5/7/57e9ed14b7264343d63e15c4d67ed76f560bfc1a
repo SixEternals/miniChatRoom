@@ -1,0 +1,8 @@
+
+g	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8“¯Áñû1
+r	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”®ã‹þÿÿÿÿ8•¯Áñû1
+r	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”®ã‹þÿÿÿÿ8—¯Áñû1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(º¨‚ò8™¯Áñû1
+]	java:S125"<This block of commented-out lines of code should be removed.(…žÇÙÿÿÿÿÿ8Ÿ¯Áñû1
+X	java:S125+"<This block of commented-out lines of code should be removed.(êúšÿ8¨¯Áñû1
+F	java:S106."+Replace this use of System.out by a logger.(£Š8µ½Ãñû1
