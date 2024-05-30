@@ -7,10 +7,10 @@ m	java:S117p"QRename this local variable to match the regular expression '^[a-
 n	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ†«Ò8æˆ­Žü1
 |
 java:S1488h"ZImmediately return this expression instead of assigning it to the temporary variable "rs".(ëŒÂŸøÿÿÿÿ8èˆ­Žü1
-e
-java:S2095œ"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìƒ®Ÿ8´‰­Žü1
 d
 java:S2095e"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìƒ®Ÿ8´‰­Žü1
+e
+java:S2095œ"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìƒ®Ÿ8´‰­Žü1
 d
 java:S2095q"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìƒ®Ÿ8´‰­Žü1
 e

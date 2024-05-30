@@ -1,0 +1,11 @@
+
+h
+java:S1192h"LDefine a constant instead of duplicating this literal "(å·²å±è”½)" 5 times.(¤«ñ^8ó³¤Ñü1
+„
+java:S11927"hDefine a constant instead of duplicating this literal "è¯·å…ˆè¿æ¥æœåŠ¡å™¨è¿›å…¥èŠå¤©å®¤ï¼" 4 times.(§ĞÒl8ú³¤Ñü1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ööŠ‚ıÿÿÿÿ8û³¤Ñü1
+t
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(¼ Òşüÿÿÿÿ8„´¤Ñü1
+]	java:S125"<This block of commented-out lines of code should be removed.(—ğëïşÿÿÿÿ8†´¤Ñü1
+]	java:S125"<This block of commented-out lines of code should be removed.(¯²Îıÿÿÿÿ8†´¤Ñü1

@@ -1,7 +1,6 @@
 package org.chat.panel;
 
 import javax.swing.*;
-import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
@@ -18,13 +17,11 @@ public class ChatRoomUI extends JFrame {
     private JButton joinGroupButton;      // 加入已有群聊按钮
     private JList<String> groupList;     // 群聊列表
     private Map<String, List<String>> groups; // 存储群聊和成员的映射
-
     public ChatRoomUI() {
         super("Chat Room");
         initializeUI();
-        this.setSize(1000, 1000); // 设置窗口大小为 1000x1000 像素
-//        this.setResizable(false); // 设置窗口大小不可调整
-        pack();
+        this.setSize(500, 500); // 设置窗口大小为 1000x1000 像素
+//        pack(); // awt组件 自动设置大小
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null); // 居中显示
 
@@ -79,13 +76,14 @@ public class ChatRoomUI extends JFrame {
         }
     }
 
-    public void listen(){
+    private void listen(){
         // 群聊列表选择事件
         groupList.addListSelectionListener(e -> {
             String selectedGroup = (String) groupList.getSelectedValue();
-            // 根据选择的群聊更新聊天区域
-            // 这里需要您根据实际逻辑来更新聊天内容
+
         });
+
+
     }
     private void initializeUI() {
         // 设置自由布局
@@ -119,9 +117,12 @@ public class ChatRoomUI extends JFrame {
         add(sendButton);
     }
 
-    public void addMessageToChat(String message) {
+    private void addMessageToChat(String message) {
         chatArea.append(message + "\n");
         chatArea.setCaretPosition(chatArea.getDocument().getLength()); // 自动滚动到底部
+
+        // 将消息广播给其他人
+
     }
 
     public static void main(String[] args) {

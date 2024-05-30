@@ -1,16 +1,16 @@
 package org.chat.client;
 
 import org.chat.model.User;
-import org.chat.panel.ClientPanel;
+import org.chat.panel.ClientLoginPanel;
 
 public class ClientMain {
     private User user; // 本user 每一个ClientMain就会创建一个独特的user
 
     // 1. 界面
-    ClientPanel clientPanel = null;
+    ClientLoginPanel clientLoginPanel = null;
     public void start(){
        // 1. 画出界面
-        clientPanel = new ClientPanel();
+        clientLoginPanel = new ClientLoginPanel();
 
         // 2. 验证账号密码的正确与否
 

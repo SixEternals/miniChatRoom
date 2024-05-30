@@ -1,0 +1,25 @@
+
+J
+java:S1604C"(Make this anonymous inner class a lambda(­ğ¦×üÿÿÿÿ8¶ûÄü1
+J
+java:S1604H"(Make this anonymous inner class a lambda(Ğ§Ü°ıÿÿÿÿ8¸ûÄü1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÏÉÏÛ8¹ûÄü1
+h
+java:S1659"FDeclare "userLabel" and all following declarations on a separate line.(¨Úº ùÿÿÿÿ8ÁûÄü1
+D
+java:S1659	"'Declare "outButton" on a separate line.(Û¤ÄÆ8ÂûÄü1
+K
+java:S1659
+")Declare "serverField" on a separate line.(•œ€‹ùÿÿÿÿ8ÂûÄü1
+E
+java:S1659")Declare "mean2Button" on a separate line.(ÂØøL8ÂûÄü1
+b
+java:S1659"FDeclare "userPanel" and all following declarations on a separate line.(¤Ç¼78ÂûÄü1
+k
+java:S3252?"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ8ÆûÄü1
+Q
+java:S1874L"/Remove this use of "getText"; it is deprecated.(ÊÜöÌıÿÿÿÿ8ÉûÄü1
+Q
+java:S1874P"/Remove this use of "getText"; it is deprecated.(È§˜ùÿÿÿÿ8ÊûÄü1
+k
+java:S3252e"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(–©Œıÿÿÿÿ8ÌûÄü1

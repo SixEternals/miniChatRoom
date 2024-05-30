@@ -9,9 +9,8 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.sql.SQLException;
 import java.sql.Timestamp;
-import java.time.LocalDateTime;
 
-public class ClientPanel extends JFrame {
+public class ClientLoginPanel extends JFrame { //
     private JFrame mainFrame = new JFrame("QQ");
     private Container c = mainFrame.getContentPane();
     private JLabel label1 = new JLabel("用户名");
@@ -23,12 +22,9 @@ public class ClientPanel extends JFrame {
     private JButton registerButton = new JButton("注册"); // 创建注册按钮
 
     // 聊天室界面组件
-    private JTextArea chatArea;
-    private JTextField messageField;
-    private JButton sendButton;
-//    private ChatClient chatClient; 未实现
+    private ChatRoomUI chatRoomUI;
 
-    public ClientPanel() {
+    public ClientLoginPanel() {
         mainFrame.setBounds(600, 200, 300, 220);
         c.setLayout(new BorderLayout());
         mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -220,10 +216,17 @@ public class ClientPanel extends JFrame {
     }
 
     private void createChatWindow() {
+        chatRoomUI = new ChatRoomUI();
+        SwingUtilities.invokeLater(new Runnable() {
+            @Override
+            public void run() {
+                new ChatRoomUI().setVisible(true);
+            }
+        });
     }
 
     // 测试
     public static void main(String[] args) {
-        ClientPanel obj = new ClientPanel();
+        ClientLoginPanel obj = new ClientLoginPanel();
     }
 }

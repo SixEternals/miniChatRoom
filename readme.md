@@ -21,3 +21,7 @@ Java网络编程–TCP+多线程 实现聊天室群聊功能
 2.客户端需要随时接收其他用户的信息，同时也要发送信息，因此单独创建一个线程来完成接收信息的功能
 
 3.为了保存所有加入了聊天室的用户的信息，创建一个public static的容器，存放用户信息
+
+[在Java中操作Redis(详细--＞从环境配置到代码实现)](https://blog.csdn.net/m0_63144319/article/details/132266469)
+
+[java 基于socket多线程的swing聊天室（完整版，附源码，带数据库存储）](https://blog.csdn.net/weixin_43476969/article/details/107012791)

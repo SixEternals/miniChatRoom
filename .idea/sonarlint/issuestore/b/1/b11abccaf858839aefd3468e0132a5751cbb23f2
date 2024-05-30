@@ -1,0 +1,30 @@
+
+X
+java:S1141‚"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÈïüÄü1
+J
+java:S1604"(Make this anonymous inner class a lambda(›ğ×’ÿÿÿÿÿ8ÈïüÄü1
+E
+java:S1604#"(Make this anonymous inner class a lambda(ãµôí8ÈïüÄü1
+J
+java:S1604n"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ8ÈïüÄü1
+J
+java:S1604w"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ8ÈïüÄü1
+D
+java:S2189L""Add an end condition to this loop.(ü§è½ùÿÿÿÿ8ğïüÄü1
+E
+java:S1948"(Make "output" transient or serializable.(ˆ³ìÂ8òïüÄü1
+D
+java:S1948"'Make "input" transient or serializable.(ÿï‰Ş8óïüÄü1
+J
+java:S1948"(Make "server" transient or serializable.(­«ÚÒùÿÿÿÿ8óïüÄü1
+N
+java:S1948",Make "connection" transient or serializable.(™ô­ºıÿÿÿÿ8óïüÄü1
+M	java:S106‡"+Replace this use of System.out by a logger.(òƒÄ‘ıÿÿÿÿ8ğüÄü1
+:
+java:S3398<"Move this method into "Roll".(ŸüØï8’ğüÄü1
+9
+java:S3398G"Move this method into "Roll".(®‚­8’ğüÄü1
+?
+java:S3398U"Move this method into "Roll".(†ÎÖÃûÿÿÿÿ8’ğüÄü1
+?
+java:S3398A"Move this method into "Roll".(ÿ³š¹ıÿÿÿÿ8’ğüÄü1

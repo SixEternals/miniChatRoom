@@ -1,19 +1,17 @@
 
 E
-java:S1604n"(Make this anonymous inner class a lambda(Î½«Ç8Ç¯×ü1
+java:S1604l"(Make this anonymous inner class a lambda(Î½«Ç8‹Ğ¤ü1
 K
-java:S1604€"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ8É¯×ü1
+java:S1604"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ8Ğ¤ü1
 ‚
-java:S1450"`Remove the "createGroupButton" field and declare it as a local variable in the relevant methods.(†ŞÅ‡şÿÿÿÿ8İ¯×ü1
+java:S1450"`Remove the "createGroupButton" field and declare it as a local variable in the relevant methods.(†ŞÅ‡şÿÿÿÿ8¥Ğ¤ü1
 €
-java:S1450"^Remove the "joinGroupButton" field and declare it as a local variable in the relevant methods.(ôÎÏÄúÿÿÿÿ8Ş¯×ü1
+java:S1450"^Remove the "joinGroupButton" field and declare it as a local variable in the relevant methods.(ôÎÏÄúÿÿÿÿ8§Ğ¤ü1
 {
-java:S1450"YRemove the "sendButton" field and declare it as a local variable in the relevant methods.(¾ö¨ûÿÿÿÿ8à¯×ü1
+java:S1450"YRemove the "sendButton" field and declare it as a local variable in the relevant methods.(¾ö¨ûÿÿÿÿ8¨Ğ¤ü1
 k
-java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ8æ¯×ü1
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ8­Ğ¤ü1
 K
-java:S1905U")Remove this unnecessary cast to "String".(µö¨¼øÿÿÿÿ8û¯×ü1
+java:S1905R")Remove this unnecessary cast to "String".(µö¨¼øÿÿÿÿ8¹Ğ¤ü1
 T
-java:S1481U"2Remove this unused "selectedGroup" local variable.(µö¨¼øÿÿÿÿ8ı¯×ü1
-B
-java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8Œ°×ü1
+java:S1481R"2Remove this unused "selectedGroup" local variable.(µö¨¼øÿÿÿÿ8»Ğ¤ü1
