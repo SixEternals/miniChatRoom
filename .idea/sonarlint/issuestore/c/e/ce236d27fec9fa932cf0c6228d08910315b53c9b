@@ -1,58 +1,66 @@
 
-h	java:S112®"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Üˆ­ü1
+h	java:S112ğ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8•¸Çëü1
+m
+java:S1192z"KDefine a constant instead of duplicating this literal "u_password" 3 times.(ÿ…ÖŠıÿÿÿÿ8¸Çëü1
 Q
-java:S1066z"/Merge this if statement with the enclosing one.(ÿ…ÖŠıÿÿÿÿ8áˆ­ü1
-m	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éß­8ãˆ­ü1
-m	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éß­8åˆ­ü1
-n	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ†«Ò8æˆ­ü1
+java:S1066z"/Merge this if statement with the enclosing one.(ÿ…ÖŠıÿÿÿÿ8¢¸Çëü1
+m	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éß­8£¸Çëü1
+m	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éß­8¤¸Çëü1
+n	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ†«Ò8¥¸Çëü1
 |
-java:S1488h"ZImmediately return this expression instead of assigning it to the temporary variable "rs".(ëŒÂŸøÿÿÿÿ8èˆ­ü1
+java:S1488h"ZImmediately return this expression instead of assigning it to the temporary variable "rs".(ëŒÂŸøÿÿÿÿ8§¸Çëü1
 d
-java:S2095e"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìƒ®Ÿ8´‰­ü1
+java:S2095q"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìƒ®Ÿ8¦¿Çëü1
 e
-java:S2095œ"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìƒ®Ÿ8´‰­ü1
+java:S2095œ"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìƒ®Ÿ8¦¿Çëü1
+e
+java:S2095Š"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìƒ®Ÿ8¦¿Çëü1
 d
-java:S2095q"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìƒ®Ÿ8´‰­ü1
+java:S2095e"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìƒ®Ÿ8¦¿Çëü1
 e
-java:S2095Š"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìƒ®Ÿ8´‰­ü1
+java:S2095©"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìƒ®Ÿ8¦¿Çëü1
 p
-java:S3008"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÔçÖüÿÿÿÿ8µ‰­ü1
+java:S3008"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÔçÖüÿÿÿÿ8§¿Çëü1
 £
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚¶ôòıÿÿÿÿ8µ‰­ü1
-L	java:S106""+Replace this use of System.out by a logger.(¢ï Öÿÿÿÿÿ8¹‰­ü1
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚¶ôòıÿÿÿÿ8§¿Çëü1
+L	java:S106""+Replace this use of System.out by a logger.(¢ï Öÿÿÿÿÿ8«¿Çëü1
 „
-java:S4087-"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(€¶º‡ıÿÿÿÿ8¼‰­ü1
+java:S4087-"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(€¶º‡ıÿÿÿÿ8¬¿Çëü1
 E
-java:S14812"(Remove this unused "url" local variable.( ğõ¹8¾‰­ü1
+java:S14812"(Remove this unused "url" local variable.( ğõ¹8­¿Çëü1
 Y
-java:S11174"<Rename "password" which hides the field declared at line 21.(î—Àò8¿‰­ü1
+java:S11174"<Rename "password" which hides the field declared at line 21.(î—Àò8­¿Çëü1
 S
-java:S26968"6Make the enclosing method "static" or remove this set.(‰ëÂ8¿‰­ü1
-L	java:S106:"+Replace this use of System.out by a logger.(ì¨şÿÿÿÿ8¿‰­ü1
-]	java:S1259"<This block of commented-out lines of code should be removed.(Âù´±üÿÿÿÿ8¿‰­ü1
-L	java:S106V"+Replace this use of System.out by a logger.(û«‹‰ùÿÿÿÿ8Â‰­ü1
-L	java:S106X"+Replace this use of System.out by a logger.(ì®òøÿÿÿÿ8Â‰­ü1
-o	java:S100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ä¤Şüÿÿÿÿ8Â‰­ü1
-j	java:S100p"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éß­8Ä‰­ü1
-X	java:S125v"<This block of commented-out lines of code should be removed.(³Õë8Å‰­ü1
-k	java:S100›"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ†«Ò8Ç‰­ü1
-H	java:S106¬"+Replace this use of System.out by a logger.(Ò‰»8Ê‰­ü1
+java:S26968"6Make the enclosing method "static" or remove this set.(‰ëÂ8®¿Çëü1
+L	java:S106:"+Replace this use of System.out by a logger.(ì¨şÿÿÿÿ8®¿Çëü1
+]	java:S1259"<This block of commented-out lines of code should be removed.(Âù´±üÿÿÿÿ8®¿Çëü1
+L	java:S106V"+Replace this use of System.out by a logger.(û«‹‰ùÿÿÿÿ8°¿Çëü1
+L	java:S106X"+Replace this use of System.out by a logger.(ì®òøÿÿÿÿ8°¿Çëü1
+o	java:S100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ä¤Şüÿÿÿÿ8°¿Çëü1
+j	java:S100p"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éß­8±¿Çëü1
+X	java:S125v"<This block of commented-out lines of code should be removed.(³Õë8²¿Çëü1
+k	java:S100›"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ†«Ò8³¿Çëü1
+j	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¢’S8´¿Çëü1
+^	java:S125Ë"<This block of commented-out lines of code should be removed.(ıè–äıÿÿÿÿ8¸¿Çëü1
+D	java:S131Ï""Add a default case to this switch.(îæˆæıÿÿÿÿ8¸¿Çëü1
+^	java:S125ä"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8¹¿Çëü1
+H	java:S106î"+Replace this use of System.out by a logger.(Âæ“ú8º¿Çëü1
 Œ
-java:S1130²"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Á¯¦ş8Ë‰­ü1
-^	java:S125µ"<This block of commented-out lines of code should be removed.(ë¢ÆÊıÿÿÿÿ8Ì‰­ü1
+java:S1130ô"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Á¯¦ş8¼¿Çëü1
+^	java:S125÷"<This block of commented-out lines of code should be removed.(ë¢ÆÊıÿÿÿÿ8¾¿Çëü1
 i
-java:S1128"GRemove this unused import 'org.springframework.jdbc.core.JdbcTemplate'.(å ê‹ÿÿÿÿÿ8Ì‰­ü1
+java:S1128"GRemove this unused import 'org.springframework.jdbc.core.JdbcTemplate'.(å ê‹ÿÿÿÿÿ8¾¿Çëü1
 f
-java:S1128"DRemove this unused import 'org.springframework.jdbc.core.RowMapper'.(¦¬ÀÙùÿÿÿÿ8Ì‰­ü1
+java:S1128"DRemove this unused import 'org.springframework.jdbc.core.RowMapper'.(¦¬ÀÙùÿÿÿÿ8¾¿Çëü1
 u
-java:S1128"XRemove this unused import 'org.springframework.jdbc.datasource.DriverManagerDataSource'.(æ´Ô½8Ì‰­ü1
+java:S1128"XRemove this unused import 'org.springframework.jdbc.datasource.DriverManagerDataSource'.(æ´Ô½8¾¿Çëü1
 M
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ì‰­ü1
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¾¿Çëü1
 M
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ì‰­ü1
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¾¿Çëü1
 O
-java:S1068"-Remove this unused "mysqlname" private field.(Ùçª€úÿÿÿÿ8Í‰­ü1
+java:S1068"-Remove this unused "mysqlname" private field.(Ùçª€úÿÿÿÿ8¾¿Çëü1
 I
-java:S1068",Remove this unused "password" private field.(Ú…£ş8Í‰­ü1
+java:S1068",Remove this unused "password" private field.(Ú…£ş8¾¿Çëü1
 I
-java:S1068"'Remove this unused "URL" private field.(áÔçÖüÿÿÿÿ8Í‰­ü1
+java:S1068"'Remove this unused "URL" private field.(áÔçÖüÿÿÿÿ8¾¿Çëü1

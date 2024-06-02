@@ -1,9 +1,18 @@
 
-D
-java:S2189""Add an end condition to this loop.(οÿÿÿÿÿ8»πόΠό1
 \
-java:S1854":Remove this useless assignment to local variable "client".(ϊΫσϊόÿÿÿÿ8½πόΠό1
+java:S1854":Remove this useless assignment to local variable "client".(ϊΫσϊόÿÿÿÿ8θί«θό1
+U
+java:S1854"8Remove this useless assignment to local variable "user".(Η­‚ϋ8κί«θό1
 M
-java:S1481"+Remove this unused "client" local variable.(Χ•ρ―ύÿÿÿÿ8ΎπόΠό1
-R
-java:S1144	"0Remove this unused private "Server" constructor.(ΰΗι‡όÿÿÿÿ8ΐπόΠό1
+java:S1481"+Remove this unused "client" local variable.(Χ•ρ―ύÿÿÿÿ8λί«θό1
+F
+java:S1481")Remove this unused "user" local variable.(Η­‚ϋ8νί«θό1
+O
+java:S1135"2Complete the task associated to this TODO comment.(νήΙ8οί«θό1
+L	java:S106"+Replace this use of System.out by a logger.(ύΈ—ηψÿÿÿÿ8πί«θό1
+Y
+java:S1854&"7Remove this useless assignment to local variable "dis".(ΘÒηµψÿÿÿÿ8ρί«θό1
+J
+java:S1481&"(Remove this unused "dis" local variable.(ΘÒηµψÿÿÿÿ8ςί«θό1
+L
+java:S1144%"/Remove this unused private "createUser" method.(ÒμΎ8ςί«θό1

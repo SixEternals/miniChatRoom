@@ -6,8 +6,9 @@ public class User {
     private String u_ID;// 唯一辨识符
     private String u_name;// 用户的登录名称
     private String u_password;
-    private enum Gender{
-        MALE,FRMALE,UNKNOWN;
+    public enum Gender{
+        MALE,FEMALE,UNKNOWN;
+
 
         @Override
         public String toString() {
@@ -18,7 +19,7 @@ public class User {
     private String u_Bio; // 个人简介
     private Timestamp u_registrationDate; // 注册时间
     private Timestamp u_lastLogin; // 最后登陆系统的时间
-    private enum Status{
+    public enum Status{
         ONLINE,OFFLINE,INVISIBLE
     }; // 状态，在线 离线 隐身等等
     private Status u_status;
@@ -44,6 +45,8 @@ public class User {
     }
 
     public void setU_gender(Gender u_gender) {
+        String str = "MALE";
+        this.u_gender = Gender.valueOf(str);
         this.u_gender = u_gender;
 
     }
@@ -105,5 +108,19 @@ public class User {
     }
 
     public User(int uId, String uName) {
+    }
+
+    @Override
+    public String toString() {
+        return "User{" +
+                "u_ID='" + u_ID + '\'' +
+                ", u_name='" + u_name + '\'' +
+                ", u_password='" + u_password + '\'' +
+                ", u_gender=" + u_gender +
+                ", u_Bio='" + u_Bio + '\'' +
+                ", u_registrationDate=" + u_registrationDate +
+                ", u_lastLogin=" + u_lastLogin +
+                ", u_status=" + u_status +
+                '}';
     }
 }

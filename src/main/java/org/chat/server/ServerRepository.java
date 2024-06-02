@@ -165,11 +165,77 @@ public class ServerRepository {
         return false;
     }
 
+    public static User getUserByU_ID(String uid) throws SQLException {
+        Statement s = con.createStatement();
+        String sql = "SELECT * FROM user WHERE u_ID = " + uid;
+        ResultSet rs = s.executeQuery(sql);
+
+        User user = new User();
+        while(rs.next()){
+            user.setU_ID(rs.getString("u_ID"));
+            user.setU_name(rs.getString("u_name"));
+            user.setU_password(rs.getString("u_password"));
+
+            String genderStr = rs.getString("u_gender");
+            if(genderStr != null) {
+                genderStr = genderStr.toUpperCase();
+                switch (genderStr) {
+                    case "MALE":
+                        user.setU_gender(User.Gender.MALE);
+                        break;
+                    case "FEMALE":
+                        user.setU_gender(User.Gender.FEMALE);
+                        break;
+                    case "UNKNOWN":
+                        user.setU_gender(User.Gender.UNKNOWN);
+                        break;
+                    default:
+                        throw new SQLException("Unknown gender value: " + genderStr);
+                }
+            }else{
+                user.setU_gender(null);
+            }
+
+            user.setU_Bio(rs.getString("u_Bio"));
+            user.setU_registrationDate(rs.getTimestamp("u_registrationDate"));
+            user.setU_lastLogin(rs.getTimestamp("u_lastLogin"));
+
+//            user.setU_status(User.Status.valueOf(rs.getString("u_status")));
+            String statusStr = rs.getString("u_status");
+            if(statusStr != null) {
+                statusStr = statusStr.toUpperCase();
+                switch (statusStr) {
+                    case "ONLINE":
+                        user.setU_status(User.Status.ONLINE);
+                        break;
+                    case "OFFLINE":
+                        user.setU_status(User.Status.OFFLINE);
+                        break;
+                    case "INVISIBLE":
+                        user.setU_status(User.Status.INVISIBLE);
+                        break;
+                }
+            }else{
+                user.setU_status(null);
+            }
+        }
+
+        return user;
+    }
+
     // 测试
     private void test(){
+//        try {
+//            boolean flag = isExistedAccount("23871266");
+//            System.out.println(flag);
+//        } catch (SQLException e) {
+//            throw new RuntimeException(e);
+//        }
+
+        // 测试：获取用户状态
         try {
-            boolean flag = isExistedAccount("23871266");
-            System.out.println(flag);
+            User u = getUserByU_ID("22004088");
+            System.out.println(u);
         } catch (SQLException e) {
             throw new RuntimeException(e);
         }

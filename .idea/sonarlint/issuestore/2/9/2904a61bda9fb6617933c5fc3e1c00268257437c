@@ -1,0 +1,7 @@
+
+d
+java:S2259Y"BA "NullPointerException" could be thrown; "code" is nullable here.(«ü”ùÿÿÿÿ8×ôÒåü1
+Y
+java:S2589:"7Remove this expression which always evaluates to "true"(ë£Åäøÿÿÿÿ8Ü› Óü1
+L	java:S106""+Replace this use of System.out by a logger.(ú¥¡šúÿÿÿÿ8à› Óü1
+C	java:S131Y""Add a default case to this switch.(«ü”ùÿÿÿÿ8ç› Óü1

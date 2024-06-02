@@ -1,20 +1,0 @@
-
-D
-java:S2189-""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8’Šˆú1
-n	java:S116
-"MRename this field "IP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¯¿üÿÿÿÿ8“Šˆú1
-£
-java:S1186$"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(…şöÁüÿÿÿÿ8•Šˆú1
-s
-java:S1450
-"QRemove the "IP" field and declare it as a local variable in the relevant methods.(Ï¯¿üÿÿÿÿ8˜Šˆú1
-}
-java:S1450"[Remove the "serverSocket" field and declare it as a local variable in the relevant methods.(“—Ó¿ıÿÿÿÿ8šŠˆú1
-„
-java:S4087"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(€¶º‡ıÿÿÿÿ8ŸŠˆú1
-L	java:S106"+Replace this use of System.out by a logger.(ò×¯˜øÿÿÿÿ8¡Šˆú1
-G	java:S106+"+Replace this use of System.out by a logger.(Ÿ‘Æı8¤Šˆú1
-L	java:S106/"+Replace this use of System.out by a logger.(ĞÔÛ¿øÿÿÿÿ8¥Šˆú1
-H
-java:S1068
-"&Remove this unused "IP" private field.(Ï¯¿üÿÿÿÿ8¦Šˆú1

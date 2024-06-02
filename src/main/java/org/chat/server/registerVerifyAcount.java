@@ -2,9 +2,6 @@ package org.chat.server;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.util.ArrayList;
-import java.util.List;
-
 public class registerVerifyAcount {
     ServerRepository serverRepository = new ServerRepository();
     public registerVerifyAcount() {

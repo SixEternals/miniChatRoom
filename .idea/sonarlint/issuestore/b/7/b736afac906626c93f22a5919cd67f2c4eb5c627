@@ -1,0 +1,41 @@
+
+D
+java:S1604i"(Make this anonymous inner class a lambda(Åûîf8ªÜËèü1
+F
+java:S1604•"(Make this anonymous inner class a lambda(ğ°ÃÁ8«ÜËèü1
+K
+java:S1604¬"(Make this anonymous inner class a lambda(¹×û¬ıÿÿÿÿ8¬ÜËèü1
+F
+java:S1604È"(Make this anonymous inner class a lambda(™¬ŞÔ8­ÜËèü1
+K
+java:S1604Ñ"(Make this anonymous inner class a lambda(¢’–ìúÿÿÿÿ8°ÜËèü1
+K
+java:S1604Ú"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ8±ÜËèü1
+f
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Â÷‚À8ÁÜËèü1
+o
+java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Œ°˜¼8ÄÜËèü1
+n
+java:S3252G"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(šÂé‹øÿÿÿÿ8ÄÜËèü1
+^
+java:S1117p"<Rename "username" which hides the field declared at line 17.(†¾êûøÿÿÿÿ8ÆÜËèü1
+^
+java:S1117q"<Rename "password" which hides the field declared at line 19.(Ê¡œøÿÿÿÿ8ÆÜËèü1
+O
+java:S1135w"2Complete the task associated to this TODO comment.(’ê½8ÇÜËèü1
+O
+java:S1135|"2Complete the task associated to this TODO comment.(ìíÂº8ÈÜËèü1
+Z
+java:S6353¦"<Use concise character class syntax '\\d' instead of '[0-9]'.(ÌÜ£‰8ÊÜËèü1
+P
+java:S1135²"2Complete the task associated to this TODO comment.(µ°Œé8ËÜËèü1
+U
+java:S1135¸"2Complete the task associated to this TODO comment.(áâõÕûÿÿÿÿ8ËÜËèü1
+U
+java:S1135¹"2Complete the task associated to this TODO comment.(„ÿ‰­ıÿÿÿÿ8ËÜËèü1
+U
+java:S1135İ"2Complete the task associated to this TODO comment.(íÊ®¶ûÿÿÿÿ8ÎÜËèü1
+Z
+java:S1854å"7Remove this useless assignment to local variable "obj".(ÍÈúıÿÿÿÿ8ÏÜËèü1
+K
+java:S1481å"(Remove this unused "obj" local variable.(ÍÈúıÿÿÿÿ8ÏÜËèü1

@@ -1,0 +1,26 @@
+
+Q
+java:S1066J"/Merge this if statement with the enclosing one.(¨éÂĞøÿÿÿÿ8ÀçÅæü1
+˜
+java:S1319("{The return type of this method should be an interface such as "List" rather than the implementation "CopyOnWriteArrayList".(œ„ó8ßÌÌëü1
+H
+java:S1948"&Make "user" transient or serializable.(’Ø¾ıÿÿÿÿ8×ÍÌëü1
+A
+java:S1948"%Make "dis" transient or serializable.(­ ¦_8ØÍÌëü1
+B
+java:S1948"%Make "dos" transient or serializable.(Ü“Õø8ÚÍÌëü1
+J
+java:S1948"(Make "socket" transient or serializable.(Å’¬Úşÿÿÿÿ8ÛÍÌëü1
+G	java:S106"+Replace this use of System.out by a logger.(ÎÑİ8ıšÍæü1
+o
+java:S3776D"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(“–ış8ÉçÅæü1
+O
+java:S1135H"2Complete the task associated to this TODO comment.(œŒÈó8ÊçÅæü1
+T
+java:S1135I"2Complete the task associated to this TODO comment.(°Ó†—ùÿÿÿÿ8ÊçÅæü1
+T
+java:S1135O"2Complete the task associated to this TODO comment.(Ç»ÿÿÿÿÿ8ÊçÅæü1
+T
+java:S1135W"2Complete the task associated to this TODO comment.(ÔàÅ®ùÿÿÿÿ8ËçÅæü1
+M
+java:S1068"0Remove this unused "privateQueue" private field.(ÃŒÀ¸8ÌÓÊæü1

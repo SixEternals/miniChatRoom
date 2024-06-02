@@ -1,13 +1,0 @@
-
-h
-java:S2095‡"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(Ò¿ò³8Ùóİóû1
-E
-java:S2189ˆ""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8È¨Ùóû1
-\
-java:S1118":Add a private constructor to hide the implicit public one.(¡’‚ûÿÿÿÿ8´‚Åóû1
-X	java:S125,"<This block of commented-out lines of code should be removed.(†€éˆ8¸‚Åóû1
-X	java:S125C"<This block of commented-out lines of code should be removed.(†€éˆ8»‚Åóû1
-o
-java:S3776N"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(øÃÁ¬8¥©Òóû1
-G	java:S106„"+Replace this use of System.out by a logger.(¨·Œ8Ï¨Ùóû1
-H	java:S106‹"+Replace this use of System.out by a logger.(È¢Ó–8áóİóû1
